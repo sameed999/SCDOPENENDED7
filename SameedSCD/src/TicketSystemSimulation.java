@@ -89,5 +89,6 @@ public class TicketSystemSimulation {
         }
 
         System.out.println("All transactions processed.");
+         System.out.println("Done.");
     }
 }
